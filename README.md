@@ -10,4 +10,5 @@ This project is basically just to showcase what i have learned so far and implem
 - Viking Flatbread 🥖
 - Skyr with honey and nuts 🍯🥜
 - Gravalax 🐟
+- Cold cured trout 🐠
 
