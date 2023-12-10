@@ -9,4 +9,5 @@ This project is basically just to showcase what i have learned so far and implem
 - Hearty Viking Stew 🍲
 - Viking Flatbread 🥖
 - Skyr with honey and nuts 🍯🥜
+- Gravalax 🐟
 
