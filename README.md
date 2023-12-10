@@ -6,3 +6,5 @@ This project is basically just to showcase what i have learned so far and implem
 
 ## Recipes Added till now .. 🍡🍙
 
+- Hearty Viking Stew 🍲
+
